@@ -1,0 +1,7 @@
+_	23	_
+_	dff	_
+_	INCR	_
+_	jkk	jkl
+_	DCR	_
+op	uio	op
+_	INCRD	RUB,DATA1,DATA2,DATA3

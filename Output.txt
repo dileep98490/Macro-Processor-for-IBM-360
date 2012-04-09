@@ -1,0 +1,13 @@
+_	23	_
+_	dff	_
+_	A	1,DATA
+_	A	2,DATA
+_	A	3,DATA
+_	jkk	jkl
+_	S	1,DATA
+_	S	2,DATA
+_	S	3,DATA
+op	uio	op
+RUB	S	1,DATA1
+_	S	2,DATA2
+_	S	3,DATA3
